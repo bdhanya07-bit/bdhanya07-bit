@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Dhanya
 
-<!--
-**bdhanya07-bit/bdhanya07-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student @ J.J. College of Engineering & Technology
+📍 Tiruchirappalli, Tamil Nadu
 
-Here are some ideas to get you started:
+I'm just starting my coding journey with **C** and **C++**, and I'm excited to build my skills one project at a time!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 What I Know
+
+- **C** — Fundamentals, logic building, problem-solving
+- **C++** — Object-Oriented Programming
+
+---
+
+## 🌱 What I'm Currently Learning
+
+- Data Structures & Algorithms
+- Git & GitHub
+- Next language:  Java
+
+---
+
+## 🚀 What I'm Working On
+
+- Building small projects in C and C++
+- Solving problems on platforms like LeetCode
+- Documenting my journey
+
+---
+
+## 📫 Connect With Me
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail)](mailto:bdhanya2007@gmail.com)
+
+---
+
+⭐️ *Every expert was once a beginner. I'm just getting started!* 🚀
