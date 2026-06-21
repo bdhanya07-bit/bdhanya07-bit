@@ -3,7 +3,7 @@
 🎓 Computer Science Student @ J.J. College of Engineering & Technology
 📍 Tiruchirappalli, Tamil Nadu
 
-I'm just starting my coding journey with **C** and **C++**, and I'm excited to build my skills one project at a time!
+I'm just starting my coding journey with **C** and **C++** and I'm excited to build my skills one project at a time!
 
 ---
 
